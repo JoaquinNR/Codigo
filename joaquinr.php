@@ -26,3 +26,4 @@ echo "La hora es: " .date("G:i:s");
 </body>
 </html>
    
+Patricio
